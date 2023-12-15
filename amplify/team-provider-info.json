@@ -1,0 +1,26 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-cookbookai-dev-113251-authRole",
+      "UnauthRoleArn": "arn:aws:iam::104855976281:role/amplify-cookbookai-dev-113251-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::104855976281:role/amplify-cookbookai-dev-113251-authRole",
+      "Region": "us-west-2",
+      "DeploymentBucketName": "amplify-cookbookai-dev-113251-deployment",
+      "UnauthRoleName": "amplify-cookbookai-dev-113251-unauthRole",
+      "StackName": "amplify-cookbookai-dev-113251",
+      "StackId": "arn:aws:cloudformation:us-west-2:104855976281:stack/amplify-cookbookai-dev-113251/3af1fd40-9b5f-11ee-8304-02a55f7d2c21",
+      "AmplifyAppId": "d22bpbujhd2o3u"
+    },
+    "categories": {
+      "auth": {
+        "cookbookaid34b4130": {}
+      },
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d22bpbujhd2o3u",
+          "type": "manual"
+        }
+      }
+    }
+  }
+}
